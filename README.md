@@ -1,24 +1,16 @@
 * info@appranix.com
 * +1 508-656-0756
 
-- nav
-------
-
 * [Home]()
 * [Product]()
 * [Features]()
 * [Company]()
 
-- Carousel caption
--------------------
 
 ## Application Centric Automation
 Appranix AcA allows organizations to compose applications, services, platforms, configurations and data as one assembly across various infrastructure so they can be deployed, managed and recalled all from an application centric view.
 
 Read More
-
-- Highlights
--------------
 
 Why choose us
 #WE ARE SOFTWARE SUPPLY CHAIN EXPERTS
@@ -46,13 +38,9 @@ Just like modern manufacturing, software development, delivery and operations ar
    Application Centric
                         ###Operations
 
-- Product Image
-----------------
 
 #APPRANIX ACA STREAMLINES THE SUPPLY CHAIN
 
-- Features
------------
 
 #Application Centric Services Composition
  
@@ -74,22 +62,17 @@ Infrastructure software defined networking limit the ability to allow applicatio
  
 One of the differentiated features of Appranix AcA that allows customers to recall software after production release relies heavily on application centric operations. By keeping track of configurations across deployments Appranix can easily recall a patch or feature that caused problems in production. Applied machine learning intelligently reconfigures systems using Live Replacetm and Live Repairtm of systems, platforms without affective the application service.
 
-- Purchase Info
-----------------
 
 Appranix’s Application Centric Automation is the only enterprise cloud service platform that allows to compose, deploy, operate and recall stack and graph based applications. So customers can achieve application agility and availability together at the lowest cost possible.
 
 [Register for Demo](mailto:info@appranix.com)
 
-- Get In Touch
----------------
+
 Happily
 #GET IN TOUCH
  
 Our friendly Help Team is eager to discuss your buisness needs, and answer any questions you may have. Enter your details and we'll get back to you shortly.</p>
 
-- Footer - Appranix solutions
-------------------------------
 
 ##Appranix solutions
 
